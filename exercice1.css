@@ -1,0 +1,38 @@
+div{
+    border: 1px solid black;
+    box-shadow: 4px 4px 5px rgb(19, 51, 231);
+    
+}
+#titre1{
+    background-color:blue;
+    margin-top: 0px;
+    text-align: center;
+    padding-bottom: 4px;
+}
+#titre2{
+    margin-top: -20px;
+    margin-left: 180px;
+}
+a{
+    background-color: blue;
+    color: black;
+    padding: 7px 35px;
+    text-decoration: none;
+}
+#lien1{
+    position: absolute;
+    top: 9.5%;
+    right: 3%;
+}
+#lien2{
+    position: absolute;
+    top: 17.5%;
+    right: 3%;
+    padding: 7px 30px ;
+}
+p{
+    margin-left: 65px;
+}
+span{
+    margin-left: -60px;
+}

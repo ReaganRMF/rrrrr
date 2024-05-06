@@ -1,0 +1,18 @@
+#mot1{
+    font-style: italic;
+}
+#mot2{
+    text-decoration: underline;
+}
+#mot3{
+    color: #FF0000;
+    font-weight: bold;
+}
+#mot4{
+    color: #0000FF;
+    font-weight: bold;
+}
+#mot5{
+    color: #AAAA00;
+    font-weight: bold;
+}
